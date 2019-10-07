@@ -198,7 +198,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 989fb7eab843640c7ada0607778bcf7e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 989fb7eab843640c7ada0607778bcf7e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -594,7 +594,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 845f9df773be94e26aa80e92ad483534, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 845f9df773be94e26aa80e92ad483534, type: 3}
       propertyPath: m_IsActive
@@ -707,6 +707,8 @@ MonoBehaviour:
   m_top: {fileID: 4300000, guid: 989fb7eab843640c7ada0607778bcf7e, type: 3}
   m_baseMaterial: {fileID: 2100000, guid: 7084429b061944eb98d2cb35c262f1b4, type: 2}
   m_topMaterial: {fileID: 2100000, guid: 7084429b061944eb98d2cb35c262f1b4, type: 2}
+  m_cube: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_cubeMaterial: {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
 --- !u!4 &1910221894
 Transform:
   m_ObjectHideFlags: 0
